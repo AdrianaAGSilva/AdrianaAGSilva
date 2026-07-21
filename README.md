@@ -8,7 +8,7 @@ Busco minha próxima oportunidade como Suporte de TI Jr ou Infraestrutura Jr.
 
 ---
 
- ### Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi&logoColor=white)
