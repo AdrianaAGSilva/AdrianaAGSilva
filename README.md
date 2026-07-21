@@ -1,21 +1,25 @@
 # Adriana Silva 🌷
 
-Olá! Eu sou a Adriana, estudante de **Engenharia de Software (5º semestre)** com foco em **Back-End com Python e Django**.  
+Estudante de Engenharia de Software (6º semestre) com experiência prática em suporte técnico N1, administração de sistemas internos e gerenciamento de acessos. Atuei quase 1,5 ano em ambiente corporativo real, lidando com alto volume de chamados, troubleshooting e suporte a múltiplos usuários e sistemas.
 
-<div style="display: inline_block"><br>
- <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-</div>
+Tenho conhecimento em Python aplicado à automação de rotinas de TI, criação de relatórios e painéis em Power BI, e venho me aprofundando em fundamentos de Active Directory, redes e infraestrutura. Sigo em formação nos cursos de fundamentos de Segurança, Conformidade e Identidade da Microsoft (SC-900), ITIL 4 e AWS Cloud Practitioner.
 
- ##
- 
-<div> 
+Busco minha próxima oportunidade como Suporte de TI Jr ou Infraestrutura Jr.
 
-<a href="https://www.linkedin.com/in/adrianaagsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/driana__araujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:adrianaaraujo1908@gmail.com" target="_blank"><img src="https://img.shields.io/badge/adrianaaraujo1908@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+---
 
+### Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-black?style=flat-square&logo=windows&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
 
