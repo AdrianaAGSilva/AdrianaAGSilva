@@ -8,15 +8,15 @@ Busco minha próxima oportunidade como Suporte de TI Jr ou Infraestrutura Jr.
 
 ---
 
-## Tecnologias e Ferramentas
+ ### Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-black?style=flat-square&logo=windows&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white)
 
 ---
 
