@@ -1,8 +1,8 @@
 # Adriana Silva 🌷
 
-Estudante de Engenharia de Software (6º semestre) com experiência prática em suporte técnico N1, administração de sistemas internos e gerenciamento de acessos. Atuei quase 1,5 ano em ambiente corporativo real, lidando com alto volume de chamados, Troubleshooting e suporte a múltiplos usuários e sistemas.
+Estudante de Engenharia de Software (6º semestre) com experiência prática em suporte técnico N1, administração de sistemas internos e gerenciamento de acessos. Atuei quase 1,5 ano em ambiente corporativo real, lidando com alto volume de chamados, troubleshooting e suporte a múltiplos usuários e sistemas.
 
-Tenho conhecimento em Python aplicado à automação de rotinas de TI, criação de relatórios e painéis em Power BI, e me aprofundei em fundamentos de Active Directory, redes e infraestrutura. Sigo em formação nos cursos de fundamentos de Segurança, Conformidade e Identidade da Microsoft (SC-900), ITIL 4 e AWS Cloud Practitioner.
+Tenho conhecimento em Python aplicado à automação de rotinas de TI, criação de relatórios e painéis em Power BI, e me aprofundei em fundamentos de Active Directory, redes e infraestrutura. Concluí o curso de fundamentos de Segurança, Conformidade e Identidade da Microsoft (SC-900) e sigo em formação em ITIL 4, AWS Cloud Practitioner (AWS Skill Builder) e Fundamentos de Computação em Nuvem (Escola da Nuvem), como preparação para a certificação AWS Certified Cloud Practitioner.
 
 Busco minha próxima oportunidade como Suporte de TI Jr ou Infraestrutura Jr.
 
